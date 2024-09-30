@@ -46,17 +46,13 @@ To run this project locally, follow these steps:
  Install the required dependencies using the commands listed above.
  Clone this repository:
 
-    git clone https://github.com/your-username/hindi-english-ocr.git
-    cd hindi-english-ocr
-
     bash
     git clone https://github.com/your-username/hindi-english-ocr.git
     cd hindi-english-ocr
 
 Launch the Gradio app:
 
-bash
-
+    bash
     python app.py
 
 Once the app starts, open the URL in your browser and upload an image to extract text or search for keywords.
