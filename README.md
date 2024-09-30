@@ -1,5 +1,7 @@
 # Hindi-English-OCR-with-Keyword-Search
 
+             DEMO: https://huggingface.co/spaces/Aumkeshchy2003/Gradio-OCR
+
 This project demonstrates a Hindi-English OCR (Optical Character Recognition) model using Tesseract OCR and a web interface built with Gradio. The model extracts text from images containing Hindi and English text and allows users to search and highlight keywords in the extracted text.
 Features
 
