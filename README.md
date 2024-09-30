@@ -9,7 +9,7 @@ Features
 
 Dependencies
 
-To run this project, you need the following:
+To run this project, we need the following:
 
     Python 3.x
     Tesseract OCR
@@ -25,8 +25,11 @@ Install the dependencies using:
 bash
 
 !sudo apt install tesseract-ocr
+
 !pip install pytesseract gradio opencv-python Pillow matplotlib
+
 !sudo apt-get install tesseract-ocr-hin
+
 !sudo apt-get install tesseract-ocr-eng
 
 How It Works
@@ -60,7 +63,9 @@ Example
 Here’s how the interface looks:
 
     Upload Image: The user uploads an image containing Hindi or English text.
+    
     Extract Text: The extracted text is displayed in the web interface.
+   
     Search: Users can search for specific keywords within the extracted text and see the highlighted results.
 
 Usage
